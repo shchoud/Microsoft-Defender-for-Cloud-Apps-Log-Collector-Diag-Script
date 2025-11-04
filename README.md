@@ -1,0 +1,1 @@
+# Microsoft-Defender-for-Cloud-Apps-Log-Collector-Diag-Script
